@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background: linear-gradient(45deg,rgb(221, 192, 63),rgb(95, 31, 90),rgb(221, 192, 63));
+}
+
+#Header{
+    background-color: black;
+    height: 70px;
+}
+#Logo{
+    color: whitesmoke;
+    width: 40%;
+    text-align: center;
+    line-height: 70px;
+    float: left;
+    font-size: 15px;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin-right: 20px;
+}
+#menu{
+    text-align: center;
+    line-height: 70px;
+    width: 60%;
+    float: right;
+    font-size: 20px;
+}
+
+#title{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+#pizza{
+    text-align: center;
+    margin-top: 20px;
+}
+#dp{
+    background: linear-gradient(45deg,darkred,black);
+    width: 40%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+table{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+img{
+    border-radius: 35px;
+    box-shadow: 0 0 10px blanchedalmond;
+}
+#burger{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#ff{
+    text-align: center;
+    margin-top: 20px;
+}
+#footer{
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 30px;
+    padding: 20px;
+}
+#icon{
+    margin-bottom: 10px;
+}
